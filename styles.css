@@ -1,0 +1,33 @@
+body {
+  background-color: white;
+}
+
+h3 {
+  text-align: center;
+  font-family: georgia;
+  font-style: oblique;
+  font-size: 90%;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  font-family: monospace;
+  text-shadow: 3px 3px lightgrey;
+  font-style: oblique;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: red;
+  border-width: 6px;
+  width: 5%;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
